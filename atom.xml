@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chengpeng.org/"/>
-  <updated>2017-02-12T11:19:11.000Z</updated>
+  <updated>2017-02-13T13:22:57.000Z</updated>
   <id>http://chengpeng.org/</id>
   
   <author>
@@ -16,13 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>这盛世如你所愿</title>
+    <link href="http://chengpeng.org/2017/02/13/as-u-wish/"/>
+    <id>http://chengpeng.org/2017/02/13/as-u-wish/</id>
+    <published>2017-02-13T13:07:53.000Z</published>
+    <updated>2017-02-13T13:22:57.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;今日中国，可如你所愿？&quot;&gt;&lt;a href=&quot;#今日中国，可如你所愿？&quot; class=&quot;headerlink&quot; title=&quot;今日中国，可如你所愿？&quot;&gt;&lt;/a&gt;今日中国，可如你所愿？&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt; 开国大典的时候飞机不够 你说飞两边  现在再也不需要飞两边了 要多少有多少&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;无数和你一样在不同战线默默奉献的人们&lt;br&gt;用汗水和生命换来了现在&lt;br&gt;安全如今 盛世如此 你们的付出没有白费&lt;br&gt;&lt;strong&gt;也不会白费&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感谢前辈们的付出，幸福并感激着！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="历史" scheme="http://chengpeng.org/categories/%E5%8E%86%E5%8F%B2/"/>
+    
+    
+      <category term="中国" scheme="http://chengpeng.org/tags/%E4%B8%AD%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>图片转化铅笔画风格</title>
     <link href="http://chengpeng.org/2017/02/12/pencil-work/"/>
     <id>http://chengpeng.org/2017/02/12/pencil-work/</id>
     <published>2017-02-12T11:15:54.000Z</published>
-    <updated>2017-02-12T11:19:11.000Z</updated>
+    <updated>2017-02-13T13:07:06.000Z</updated>
     
     <summary type="html">
+    
+      &lt;p&gt;之前一直在找python能做什么有趣的项目，无意通过知乎中发现的一篇论文《&lt;a href=&quot;http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm&quot; target=&quot;_blank&quot;
     
     </summary>
     
