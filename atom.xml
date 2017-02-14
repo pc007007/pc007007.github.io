@@ -44,11 +44,17 @@
     <link href="http://chengpeng.org/2017/02/12/pencil-work/"/>
     <id>http://chengpeng.org/2017/02/12/pencil-work/</id>
     <published>2017-02-12T11:15:54.000Z</published>
-    <updated>2017-02-13T13:07:06.000Z</updated>
+    <updated>2017-02-14T03:27:55.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;之前一直在找python能做什么有趣的项目，无意通过知乎中发现的一篇论文《&lt;a href=&quot;http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm&quot; target=&quot;_blank&quot;
+      &lt;p&gt;之前一直在找python能做什么有趣的项目，无意通过知乎中发现的一篇论文《&lt;a href=&quot;http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm&quot;&gt;Combining Sketch and Tone for Pencil Drawing Production&lt;/a&gt;》，具体内容见的就是将图片转化为铅笔画风格的算法。由于刚学习了python就决定尝试用python将这篇论文实现。&lt;/p&gt;
+&lt;p&gt;我将这个论文处理图片分为了四个阶段：  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;灰度图&lt;/li&gt;
+&lt;li&gt;线条图&lt;/li&gt;
+&lt;li&gt;纹理图&lt;/li&gt;
+&lt;li&gt;彩色图
     
     </summary>
     

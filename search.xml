@@ -25,9 +25,14 @@
 <li>灰度图</li>
 <li>线条图</li>
 <li>纹理图</li>
-<li>彩色图</li>
+<li>彩色图<a id="more"></a>
+</li>
 </ol>
-<h2 id="灰度图"><a href="#灰度图" class="headerlink" title="灰度图"></a>灰度图</h2>]]></content>
+<h3 id="原图"><a href="#原图" class="headerlink" title="原图"></a>原图</h3><p><img src="http://ol9kung4v.bkt.clouddn.com/test3.jpg" alt="origin"></p>
+<h3 id="纯色铅笔图"><a href="#纯色铅笔图" class="headerlink" title="纯色铅笔图"></a>纯色铅笔图</h3><p><img src="http://ol9kung4v.bkt.clouddn.com/1.png" alt="pencil_drawing"></p>
+<h3 id="彩色铅笔图"><a href="#彩色铅笔图" class="headerlink" title="彩色铅笔图"></a>彩色铅笔图</h3><p><img src="http://ol9kung4v.bkt.clouddn.com/2.png" alt="color_pencil"></p>
+<p>代码：<a href="https://github.com/pc007007/pencil_draw/tree/master" target="_blank" rel="external">点这里</a></p>
+]]></content>
     </entry>
     
     <entry>
