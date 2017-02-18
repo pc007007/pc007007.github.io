@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chengpeng.org/"/>
-  <updated>2017-02-13T13:22:57.000Z</updated>
+  <updated>2017-02-18T10:53:03.000Z</updated>
   <id>http://chengpeng.org/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>救命必备（转）</title>
+    <link href="http://chengpeng.org/2017/02/18/save-life/"/>
+    <id>http://chengpeng.org/2017/02/18/save-life/</id>
+    <published>2017-02-18T10:46:02.000Z</published>
+    <updated>2017-02-18T10:53:03.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;BlackheartedHospital&quot;&gt;&lt;a href=&quot;#BlackheartedHospital&quot; class=&quot;headerlink&quot; title=&quot;BlackheartedHospital&quot;&gt;&lt;/a&gt;BlackheartedHospital&lt;/h3&gt;&lt;p&gt;black hearted hospital list, build with weui&lt;/p&gt;
+&lt;p&gt;data ref to &lt;a href=&quot;https://github.com/langhua9527/BlackheartedHospital&quot;&gt;https://github.com/langhua9527/BlackheartedHospital&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="http://chengpeng.org/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="保命" scheme="http://chengpeng.org/tags/%E4%BF%9D%E5%91%BD/"/>
+    
+      <category term="技巧" scheme="http://chengpeng.org/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>这盛世如你所愿</title>
